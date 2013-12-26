@@ -1,4 +1,4 @@
-Pry Doc Logo v1
+Pry Doc Logo v2
 ===============
 
 It is used for the [Pry Doc][1] plugin.

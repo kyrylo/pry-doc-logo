@@ -15,7 +15,7 @@
    id="svg2"
    height="744.09448"
    width="1052.3622"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="pry-doc-logo.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -54,14 +54,6 @@
          stdDeviation="0.56933594"
          id="feGaussianBlur4173" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4275">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.38134388"
-         id="feGaussianBlur4277" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3937"
@@ -81,8 +73,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="537.42151"
-     inkscape:cy="382.33949"
+     inkscape:cx="515.50422"
+     inkscape:cy="395.0727"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -99,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,7 +106,7 @@
       <path
          transform="matrix(0.42280885,0,0,0.42280885,464.95547,347.63572)"
          style="opacity:0.3;fill:#655858;fill-opacity:1;stroke:none;filter:url(#filter3994)"
-         d="m 661.85193,417.38031 286.37823,0 0,322.01653 -46.25,47.8003 c -81.22889,-2.3723 -158.88454,-4.66917 -237.2998,-1.41421 5.16262,-124.54528 0.64217,-245.97042 -2.82843,-368.40262 z"
+         d="m 661.85193,417.38031 286.37823,0 0,322.01653 -46.25,47.8003 c -81.22889,-2.3723 -158.88454,-2.57867 -237.2998,-1.41421 5.16262,-124.54528 0.64217,-245.97042 -2.82843,-368.40262 z"
          id="path3978"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />
